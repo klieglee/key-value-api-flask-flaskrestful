@@ -1,4 +1,4 @@
-# key-value-api-flask-flaskrestful
+# Прототип API хранилища ключ-значение
 Prototype of API storage key-value
 
 Команда для сборки контейнера: docker build -t имя_образа .
